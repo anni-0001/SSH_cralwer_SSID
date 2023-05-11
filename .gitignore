@@ -1,0 +1,9 @@
+tcpdump/
+.*
+!/.gitignore
+/SSH_MODEL/tcpdump/
+# /SSH_MODEL/data
+# /SSH_MODEL/bin
+# /SSH_MODEL/share
+# /SSH_MODEL/lib
+# /SSH_MODEL/share
